@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+
+# Machine learning artifacts
+*.pkl
+*.joblib
+
+# Node
+node_modules/
+frontend/dist/
+
+# Environment and editor
+.vscode/
+.DS_Store
+Thumbs.db

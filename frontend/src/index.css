@@ -1,0 +1,28 @@
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+  background: #0b0c14;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+}
